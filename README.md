@@ -5,11 +5,12 @@
 
 ### Movies
 
-```GET /watch/list: ดึงข้อมูลหนังทั้งหมด
+```
+GET /watch/list: ดึงข้อมูลหนังทั้งหมด
 
 GET /watch/list/{id}: ดึงรายละเอียดของหนังที่ดู
 
-GET /search/?q=xxxx: ค้นหารายการหนังจากชื่อ```
-
+GET /search/?q=xxxx: ค้นหารายการหนังจากชื่อ
+```
 
 ส่งงานผ่าน GITLAB หรือ GITHUB

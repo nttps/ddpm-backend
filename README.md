@@ -1,4 +1,4 @@
-# แบบทดสอบ API
+# แบบทดสอบสร้าง API
 ## ใช้ API จาก https://www.themoviedb.org/
 
 ## อ่าน Docs ได้ที่ https://developer.themoviedb.org/docs

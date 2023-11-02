@@ -1,13 +1,8 @@
 # ddpm-backend
+ใช้ API จาก https://www.imdb.com/
 
 Movies
 
-GET /watch/list: Retrieve a list of all movies.
+GET /watch/list: ดึงข้อมูลหนังทั้งหมด
+GET /watch/list/{id}: ดึงรายละเอียดของหนังที่ดู
 
-POST /watch/list: Create a new movie.
-
-GET /watch/list/{id}: Retrieve details of a specific movie.
-
-PUT /watch/list/{id}: Update details of a specific movie.
-
-DELETE /watch/list/{id}: Delete a specific movie.

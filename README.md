@@ -11,3 +11,4 @@ GET /watch/list/{id}: ดึงรายละเอียดของหนั�
 GET /search/?q=xxxx: ค้นหารายการหนังจากชื่อ
 
 
+ส่งงานผ่าน GITLAB หรือ GITHUB

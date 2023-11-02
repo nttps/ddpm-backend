@@ -1,5 +1,5 @@
 # แบบทดสอบสร้าง API
-## ใช้ API จาก https://www.themoviedb.org/
+## ใช้ API จาก https://www.themoviedb.org/ เพื่อสร้าง BACKEND API ของตัวเอง
 
 ## อ่าน Docs ได้ที่ https://developer.themoviedb.org/docs
 
